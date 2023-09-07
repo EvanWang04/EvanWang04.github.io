@@ -26,10 +26,10 @@ function App() {
           Hey, I'm Evan 👋
           <br></br>
           <br></br>
-          I'm a software engineering student at the University of Waterloo, currently interning at Ford as a backend software engineer.
+          I'm a software engineering student at the University of Waterloo, currently on a study term and seeking Winter 2024 internships.
           <br></br>
           <br></br>
-          My journey revolves around creating impactful software, ones that truly make a difference. It's not just about codes and algorithms, but about how these digital products touch lives and change the world.          <br></br>
+          I'm focused on building software that genuinely makes a difference. It's not just about coding, but about how these tools can positively impact people's lives.          <br></br>
           <br></br>
           Interested to know more, collaborate, or just chat about tech and life? Don't hesitate to connect!
         </div>
@@ -41,7 +41,6 @@ function App() {
         <div class="links-content content">
           <a class="link-item" href="https://www.linkedin.com/in/evanwang04/" target="_blank" rel="noreferrer"><LinkedInIcon fontSize='small'></LinkedInIcon><span class="underline">LinkedIn</span></a>
           <a class="link-item" href="https://github.com/EvanWang04" target="_blank" rel="noreferrer"><GitHubIcon fontSize='small'></GitHubIcon><span class="underline">GitHub</span></a>
-          <a class="link-item" href="https://www.linkedin.com/in/evanwang04/" target="_blank" rel="noreferrer"><DescriptionIcon fontSize='small'></DescriptionIcon><span class="underline">Resume</span></a>
           <a class="link-item" href="mailto:exwang@uwaterloo.ca" target="_blank" rel="noreferrer"><EmailIcon fontSize='small'></EmailIcon><span class="underline">Email</span></a>
         </div>
       </div>
