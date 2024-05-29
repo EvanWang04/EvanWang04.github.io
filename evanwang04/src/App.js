@@ -26,7 +26,7 @@ function App() {
           Hey, I'm Evan 👋
           <br></br>
           <br></br>
-          I'm a software engineering student at the University of Waterloo, currently on a study term and seeking Winter 2024 internships.
+          I'm a software engineering student at the University of Waterloo, seeking Fall 2024 internships (Sept - Dec 2024).
           <br></br>
           <br></br>
           I'm focused on building software that genuinely makes a difference. It's not just about coding, but about how these tools can positively impact people's lives.          <br></br>
