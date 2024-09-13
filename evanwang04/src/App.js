@@ -11,11 +11,11 @@ function App() {
           Hi, I'm Evan Wang
         </div>
         <div class="welcome-content">
-          I'm a software engineering student at the University of Waterloo, seeking Fall 2024 internships (September 2024 - December 2024).
-          <br/><br/>
-          Previously, I've interned at <a href="https://www.bankonloop.com/" target="_blank" rel="noreferrer">Loop Financial</a>, <a href="https://www.ford.ca/" target="_blank" rel="noreferrer">Ford Motor Company</a>, and the <a href="https://www.rbcroyalbank.com" target="_blank" rel="noreferrer">Royal Bank of Canada</a>.
-          <br/><br/>
-          Interested to know more, collaborate, or just chat? Don't hesitate to connect.
+          I'm a software engineering student at the University of Waterloo, seeking Summer 2025 internships (May 2025 - August 2025).
+          <br /><br />
+          I'm currently interning at <a href="https://www.tesla.com/" target="_blank" rel="noreferrer">Tesla</a> as a Software Engineering intern. Previously, I've interned at <a href="https://www.bankonloop.com/" target="_blank" rel="noreferrer">Loop Financial</a>, <a href="https://www.ford.ca/" target="_blank" rel="noreferrer">Ford Motor Company</a>, and the <a href="https://www.rbcroyalbank.com" target="_blank" rel="noreferrer">Royal Bank of Canada</a>.
+          {/* <br /><br />
+          Interested to know more, collaborate, or just chat? Don't hesitate to connect. */}
         </div>
         <div class="links-container">
           <a class="link-item" href="https://www.linkedin.com/in/evanwang04/" target="_blank" rel="noreferrer"><LinkedInIcon fontSize='small'></LinkedInIcon><span class="underline">LinkedIn</span></a>
